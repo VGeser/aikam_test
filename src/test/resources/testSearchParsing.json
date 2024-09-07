@@ -1,0 +1,13 @@
+{
+  "criterias": [
+    {
+      "lastName": "Иванов"
+    },
+    {
+      "badCustomers": 3
+    },
+    {
+      "lastName": "Коньков"
+    }
+  ]
+}
